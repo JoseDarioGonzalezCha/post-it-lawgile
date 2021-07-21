@@ -19,11 +19,7 @@ const Produto = ({produto, produtos}) => {
                     <li>{nome}</li>
                     <li>${preco}</li>
                     <button type="button" onClick={() => addProduto(id)}>Reservar</button>
-                </ul>
-            
-
-            
-               
+                </ul>  
     );
 };
 

@@ -20,7 +20,7 @@ const [reseva, setReserva] = useState([])
   return (
     <Fragment>
       <section className="container">
-        <div className="container__header__title"><h3 className="container__header__title--text">POST-IT</h3>
+        <div className="container__header__title"><h2 className="container__header__title--text">POST-IT</h2>
         </div>
 
         <div className="container__content__listPost-it">
